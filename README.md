@@ -6,8 +6,7 @@
 
 ## Preview
 You can see [PDF](https://github.com/EddyIonescu/Resume/blob/master/EddyIonescu_CV_green.pdf)
-![alt tag](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)
-
+![alt tag](https://github.com/EddyIonescu/Resume/blob/master/EddyIonescu_CV_green-1.png)
 
 ## Quick Start
 
