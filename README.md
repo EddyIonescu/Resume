@@ -1,11 +1,11 @@
 # Awesome CV [![Example](https://img.shields.io/badge/example-pdf-green.svg)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
 
 
-[**Awesome CV**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** or **cover letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+[**Awesome CV (by posquit0)**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** or **cover letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup. This resume was made using the Awesome CV template at sharelatex.com.
 
 
 ## Preview
-You can see [PDF](https://github.com/EddyIonescu/Resume/blob/master/EddyIonescu_CV_green.pdf)
+[PDF](https://github.com/EddyIonescu/Resume/blob/master/EddyIonescu_CV_green.pdf)
 ![alt tag](https://github.com/EddyIonescu/Resume/blob/master/EddyIonescu_CV_green-1.png)
 
 ## Quick Start
