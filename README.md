@@ -2,6 +2,7 @@
 
 [**Awesome CV (by posquit0)**](https://github.com/posquit0/Awesome-CV) is LaTeX template for a **CV(Curriculum Vitae)** or **resume** or **cover letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup. This resume was made using the Awesome CV template at sharelatex.com.
 
+TODO: Add CCC Senior 2015 Top 50 + ACM Local + FB Hackercup - participation
 
 ## Preview
 [PDF](https://github.com/EddyIonescu/Resume/blob/master/EddyIonescu_CV_green.pdf)
